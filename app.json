@@ -59,7 +59,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/Familysga/MARSLEN",
+        "value": "https://github.com/SALAMSASA/MARSLEN",
         "required": true
       },
       "LOG_GROUP_ID": {
